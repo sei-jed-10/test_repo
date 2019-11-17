@@ -1,2 +1,3 @@
 I just edited this!
-modified locally
+modified locally.
+modified online.
